@@ -1,4 +1,7 @@
-### Hi there 👋
+### Mingchun Wu
+
+- I'm currently learning FP and ML.
+- I'm currently working on a university.
 
 <!--
 **minchwu/minchwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
